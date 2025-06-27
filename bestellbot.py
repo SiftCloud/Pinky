@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Conve
 PRODUKT, MENGE, VERSAND, INFO, BESTÄTIGUNG = range(5)
 
 # 🔐 Bot-Token (von @BotFather)
-BOT_TOKEN = 7559409764:AAFvTN63N4XxMqbVnty2LAzZ8uFY3U_GHOo
+BOT_TOKEN = 
 # 🧑 Admin-ID (Telegram-ID, wohin Bestellung gesendet wird)
 ADMIN_CHAT_ID = 7286023802
 # 🧭 Start des Bestellvorgangs
